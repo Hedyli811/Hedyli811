@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hedy</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
-
-- 🌱 I’m currently learning **React**
+<h3 align="center">A passionate fullstack developer from China</h3>
 
 - 📫 How to reach me **hedyli811@gmail.com**
 
